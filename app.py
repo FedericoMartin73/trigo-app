@@ -81,7 +81,7 @@ ultimo_anio = int(datos["anio"].max())
 # -----------------------------------------------------------------------------
 st.title("🌾 Producción de trigo en Argentina")
 st.caption(
-    "Trabajo Práctico · Introducción a las metodologías y procesos de Ciencia de Datos · UGR. "
+    "Trabajo Práctico · INGENIERÍA DEL SOFTWARE - Ciencia de Datos · UGR. "
     "Datos: Secretaría de Agricultura, Ganadería y Pesca (datos.gob.ar), campañas 1927–2025."
 )
 
